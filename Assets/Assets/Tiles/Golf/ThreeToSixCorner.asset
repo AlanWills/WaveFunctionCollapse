@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e560f9a1fa72db845a757c2b601e55b6, type: 3}
+  m_Name: ThreeToSixCorner
+  m_EditorClassIdentifier: 
+  weight: 1
+  rules:
+  - {fileID: 11400000, guid: 601ee50e35344ae4ea2d90b096626820, type: 2}
+  - {fileID: 11400000, guid: 224f901319c817d4e99dd2731b096f10, type: 2}
+  - {fileID: 11400000, guid: e68f5ecbc15dc7a4f9f4785197de8c6a, type: 2}
+  - {fileID: 11400000, guid: 81d25b0a08dbb3944b0b39331701553c, type: 2}
+  - {fileID: 11400000, guid: 539752bf6aa64364b9a406e5024f014e, type: 2}
+  - {fileID: 11400000, guid: daadfd470e994a544aab1295cc6d91ec, type: 2}
+  - {fileID: 11400000, guid: 3d37de6ce3ce74147a56390d2e8c0b32, type: 2}
+  - {fileID: 11400000, guid: 3d8c6a4c7d4eeba439328bda0ac0c11a, type: 2}
+  - {fileID: 11400000, guid: 45ca66a57f9af404fafa083cc825e50d, type: 2}
+  - {fileID: 11400000, guid: 7234934a06c0539419a22802060be5cb, type: 2}
+  - {fileID: 11400000, guid: 46de3e119668663419f78886a02213f3, type: 2}
+  - {fileID: 11400000, guid: 3932fb9b64431f84a85312fd0501b1d7, type: 2}
+  - {fileID: 11400000, guid: 83d62ccf70ec95d429731f7ec009fae5, type: 2}
+  - {fileID: 11400000, guid: 2e46dacc91b1e51438d57e1b72f135a9, type: 2}
+  - {fileID: 11400000, guid: 5b86491215ebe824999d73886e4a336d, type: 2}
+  - {fileID: 11400000, guid: 85545304f375013439a711714f68a948, type: 2}
+  gameObject: {fileID: 7608454599476867854, guid: a63444ac6a5d0454f8502869a74f4e6c,
+    type: 3}

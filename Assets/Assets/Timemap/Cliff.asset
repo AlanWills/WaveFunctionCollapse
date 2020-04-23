@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85c185aa71aa3274eba2d0f3f716c91f, type: 3}
+  m_Name: Cliff
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: d6f3f2fe39facff42a5dce374ff7496e, type: 2}
+  - {fileID: 11400000, guid: 9289175a3e22f004392addec42769f26, type: 2}
+  rows: 10
+  columns: 10

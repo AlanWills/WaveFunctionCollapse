@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e560f9a1fa72db845a757c2b601e55b6, type: 3}
+  m_Name: GrassCliffEdge
+  m_EditorClassIdentifier: 
+  weight: 1
+  rules:
+  - {fileID: 11400000, guid: 64c7db4323d16124aaae4cfe76f1c9c1, type: 2}
+  - {fileID: 11400000, guid: 17485211afe4cf940afa7e34b7b54750, type: 2}
+  - {fileID: 11400000, guid: 269662f24042fe94c97ea0e718cccdd9, type: 2}
+  gameObject: {fileID: 100000, guid: 891e6ef87f03a014a8f4dbfc3e4a194a, type: 3}
